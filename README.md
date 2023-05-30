@@ -8,21 +8,23 @@
 
 ### **MINI PROJECT**
 
-- 미니 프로젝트 1st <!-- | [팀 소개 웹 페이지](배포준비중) -->
+- Python | 미니 프로젝트 1st <!-- | [팀 소개 웹 페이지](배포준비중) -->
   - [첫 미니프로젝트](/PROJECT/MiniProject/aboutTeam/20230515_firstTIL.md)
   - [충돌](/PROJECT/MiniProject/aboutTeam/20230516_conflict.md)
   - [플라스크 템플릿 언어 jinja2](/PROJECT/MiniProject/aboutTeam/20230517_jinja2Template.md)
   - [URI & URL, GET & POST](/PROJECT/MiniProject/aboutTeam/20230518_uri_url_get_post.md)
 <!-- - Java 개인과제
-  - [키오츠크 프로그램](/PROJECT/SoloProject/20230529_kiosk.md)
+  - [키오츠크 프로그램](/PROJECT/SoloProject/20230529_kiosk.md) -->
 - Java 문제풀기
   - [메모장 만들기](/LANGUAGE/JAVA/codingTest/20230524_scanner.md)
   - [자료구조 메모장 만들기](/LANGUAGE/JAVA/codingTest/20230525_List_Map_Set.md)
-  - [계산기 만들기](/LANGUAGE/JAVA/codingTest/20230527_calculator.md) -->
+  - [계산기 만들기](/LANGUAGE/JAVA/codingTest/20230527_calculator.md)
 
 ### **SCM**
 
-- 버전관리 | [깃 & 깃허브](/SCM/20230524_git_github.md)
+- Git & Github | [깃 & 깃허브 시작하기](/SCM/20230524_git_github.md)
+- Github | [SSH key 등록하기](/SCM/20230516_sshKey.md)
+- Github | [fork repository 생성](/SCM/20230516_sshKey.md)
 
 ### **LANGUAGE**
 
