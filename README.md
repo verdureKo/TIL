@@ -13,8 +13,11 @@
   - [충돌](/PROJECT/MiniProject/aboutTeam/20230516_conflict.md)
   - [플라스크 템플릿 언어 jinja2](/PROJECT/MiniProject/aboutTeam/20230517_jinja2Template.md)
   - [URI & URL, GET & POST](/PROJECT/MiniProject/aboutTeam/20230518_uri_url_get_post.md)
-<!-- - Java 개인과제
-  - [키오츠크 프로그램](/PROJECT/SoloProject/20230529_kiosk.md) -->
+- Java 개인과제
+  - [키오츠크 프로그램-01](/PROJECT/SoloProject/20230529_enum.md)
+  - [키오츠크 프로그램-02](/PROJECT/SoloProject/20230530_printf.md)
+  - [키오츠크 프로그램-03](/PROJECT/SoloProject/20230531_getter_setter.md)
+  - [키오츠크 프로그램-04](/PROJECT/SoloProject/20230601_kiosk.md)
 - Java 문제풀기
   - [메모장 만들기](/LANGUAGE/JAVA/codingTest/20230524_scanner.md)
   - [자료구조 메모장 만들기](/LANGUAGE/JAVA/codingTest/20230525_List_Map_Set.md)
