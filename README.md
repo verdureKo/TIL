@@ -33,10 +33,13 @@
 
 ### **LANGUAGE**
 
-- 문법 | [마크다운 작성법](/LANGUAGE/20230518_markDown.md)
-<!-- - 문법 | [자바 기초](/LANGUAGE/JAVA)
-  - [객체지향 프로그래밍 이해](/LANGUAGE/JAVA/OOP/20230525_OOP_%EC%9D%B4%ED%95%B4.md)
-  - [객체지향 프로그래밍 설계](/LANGUAGE/JAVA/OOP/20230526_OOP_%EC%84%A4%EA%B3%84.md) -->
+- [마크다운 작성법](/LANGUAGE/20230518_markDown.md)
+- [자바 기초](/LANGUAGE/JAVA/basic/)
+  - [변수](/LANGUAGE/JAVA/basic/20230529_variable.md)
+  - [데이터 타입](/LANGUAGE/JAVA/basic/20230530_dataType.md)
+  - [상수](/LANGUAGE/JAVA/basic/20230602_constant.md)
+  - [연산자](/LANGUAGE/JAVA/basic/20230602_operator.md)
+  - [조건문과 반복문](/LANGUAGE/JAVA/basic/20230602_conditionals_iterations.md)
 
 ### **WIL**
 
