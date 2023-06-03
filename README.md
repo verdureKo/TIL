@@ -35,11 +35,6 @@
 
 - [마크다운 작성법](/LANGUAGE/20230518_markDown.md)
 - [자바 기초](/LANGUAGE/JAVA/basic/)
-  - [변수](/LANGUAGE/JAVA/basic/20230529_variable.md)
-  - [데이터 타입](/LANGUAGE/JAVA/basic/20230530_dataType.md)
-  - [상수](/LANGUAGE/JAVA/basic/20230602_constant.md)
-  - [연산자](/LANGUAGE/JAVA/basic/20230602_operator.md)
-  - [조건문과 반복문](/LANGUAGE/JAVA/basic/20230602_conditionals_iterations.md)
 
 ### **WIL**
 
