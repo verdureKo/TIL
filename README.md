@@ -8,39 +8,31 @@
 
 ### **MINI PROJECT**
 
-- Python | 미니 프로젝트 1st <!-- | [팀 소개 웹 페이지](배포준비중) -->
+- Python | 웹 페이지
 
-  - [첫 미니프로젝트](/PROJECT/MiniProject/aboutTeam/20230515_firstTIL.md)
+  - [첫 미니 프로젝트](/PROJECT/MiniProject/aboutTeam/20230515_firstTIL.md)
 
   - [충돌](/PROJECT/MiniProject/aboutTeam/20230516_conflict.md)
 
-  - [플라스크 템플릿 언어 jinja2](/PROJECT/MiniProject/aboutTeam/20230517_jinja2Template.md)
+  - [플라스크 템플릿 엔진 jinja2](/PROJECT/MiniProject/aboutTeam/20230517_jinja2Template.md)
 
   - [URI & URL, GET & POST](/PROJECT/MiniProject/aboutTeam/20230518_uri_url_get_post.md)
 
-- Java | 미니 프로젝트 2nd
+- Java | 입력 출력 프로그램
 
-  - [메모장 워밍업](/PROJECT/MiniProject/javaProgram/20230605_notePad.md)
+  - [메모장](/PROJECT/MiniProject/javaProgram/20230605_notePad.md)
 
-  - [호텔예약 프로그램-01](/PROJECT/MiniProject/javaProgram/20230607_hotel_booking.md)
+  - [호텔예약](/PROJECT/MiniProject/javaProgram/20230607_hotel_booking.md)
   
-- Java 개인과제
+- Java | 입력 출력 프로그램
 
-  - [키오츠크 프로그램-01](/PROJECT/SoloProject/20230529_enum.md)
+  - [키오츠크-01](/PROJECT/SoloProject/20230529_enum.md)
 
-  - [키오츠크 프로그램-02](/PROJECT/SoloProject/20230530_printf.md)
+  - [키오츠크-02](/PROJECT/SoloProject/20230530_printf.md)
 
-  - [키오츠크 프로그램-03](/PROJECT/SoloProject/20230531_getter_setter.md)
+  - [키오츠크-03](/PROJECT/SoloProject/20230531_getter_setter.md)
 
-  - [키오츠크 프로그램-04](/PROJECT/SoloProject/20230601_kiosk.md)
-
-- Java 문제풀기
-
-  - [메모장 만들기](/LANGUAGE/JAVA/codingTest/20230524_scanner.md)
-
-  - [자료구조 메모장 만들기](/LANGUAGE/JAVA/codingTest/20230525_List_Map_Set.md)
-
-  - [계산기 만들기](/LANGUAGE/JAVA/codingTest/20230527_calculator.md)
+  - [키오츠크-04](/PROJECT/SoloProject/20230601_kiosk.md)
 
 ### **SCM**
 
@@ -50,11 +42,14 @@
 
 - Github | [fork repository 생성](/SCM/20230516_sshKey.md)
 
+- Github | [.gitignore 란?](/SCM/20230608_git_ignore.md)
+
 ### **LANGUAGE**
 
 - [마크다운 작성법](/LANGUAGE/20230518_markDown.md)
 <!-- - [자바 기초](/LANGUAGE/JAVA/basic/) -->
 <!-- - [자바 객체지향](/LANGUAGE/JAVA/OOP/) -->
+<!-- - [Coding Test](/LANGUAGE/JAVA/codingTest) -->
 
 ### **WIL**
 

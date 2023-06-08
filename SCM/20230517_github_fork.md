@@ -3,7 +3,7 @@
 먼저 Pull Request를 보내기 전 Fork한 Repository를 업데이트 싱크 해주어 최신버전으로 만들어주는게 충돌예방에 좋다
 
 ```bash
-$ git remote add upstream https://"원본주소"
+git remote add upstream https://"원본주소"
 $ git remote -v
 $ git fetch upstream
 ```

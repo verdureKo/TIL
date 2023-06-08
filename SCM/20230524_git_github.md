@@ -5,7 +5,7 @@
 
 - 버전관리 소프트웨어 ?
  `Git`, `Subversion`, `CVS` 등이 있다.
- 
+
 - 원격 협업 및 파일 저장 서비스 ?
   `Github`, `Gitlab`, `Bitbucket` 등이 있다.
 
@@ -62,32 +62,32 @@
 - 만약 name, email 을 바꾸고 싶다면 바꿀 내용만 다르게하여
 
 ```bash
-  $ git config --global user.name "name"
+  git config --global user.name "name"
   $ git config --global user.email "gmail@gmail.com"
 ```
 
 - git config 설정 확인
 
 ```bash
-  $ git config --list 
+  git config --list 
 ```
 
 - git 사용 안내, 명령어 잊어버렸을때 알 수 있음
 
 ```bash
-  $ git help  
+  git help  
 ```
 
 - 저장소 폴더 내 전체 파일을 워킹디렉토리에서 스테이징으로 올려보냄
 
 ```bash
-$ git add -A 
+git add -A 
 ```
 
 - 신규, 변경된 파일 모두를 add 처리함
 
 ```bash
-$ git add . 
+git add . 
 ```
 
 - index.html 파일만 워킹디렉토리에서 staging area로 보냄
@@ -99,7 +99,7 @@ git add index.html
 - index.html 파일이 Repository로 보내지며, -m 식별 메시지 "first commit"로 구분
 
 ```bash
-$ git commit index.html -m "first commit"
+git commit index.html -m "first commit"
 ```
 
 - 저장소 폴더 내부 변화 상태(status) 확인
@@ -185,7 +185,7 @@ reset 복구 = reflog 실행 기록 확인 후 reset 복구
 
 reset --soft/mixed/hard 후에 복구는 reflog를 사용
 
-```bash 
+```bash
   C:\git_test>git reset --hard head@{2}
   # second commit 으로 reset 가능함
   HEAD is now at 2a82323 second commit
