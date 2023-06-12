@@ -89,8 +89,10 @@
 - 1주차 회고 | [음..](/WIL/20230521_weekly_I_Learned.md)
 
 <!-- 자바 문법 종합반 수강 및 Java kiosk 입출력 프로그램(개인 프로젝트), Java 메모장 및 호텔예약 입출력 프로그램(팀 프로젝트) 만들기 -->
-- 2주차 회고 | [자바 찍먹 후기](/WIL/20230528_weekly_I_Learned.md)
+- 2주차 회고 | [자바 찍먹](/WIL/20230528_weekly_I_Learned.md)
 
-- 3주차 회고 | [익숙해지는 것](/WIL/20230603_weekly_I_Learned.md)
+- 3주차 회고 | [익숙해지기](/WIL/20230603_weekly_I_Learned.md)
 
-- 4주차 회고 | [익숙해지는 것](/WIL/20230611_weekly_I_Learned.md)
+- 4주차 회고 | [익숙해지기2](/WIL/20230611_weekly_I_Learned.md)
+
+<!-- 주특기 수강 주차 스프링 입문, 개인프로젝트 -->
