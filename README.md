@@ -2,29 +2,38 @@
 
 >*Today I Learned !*
 
+</br>
+
 ## ✔ INDEX
 
-<br/>
+</br>
+</br>
 
 ### **MINI PROJECT**
 
-- Python | 웹 페이지
+- Python | 웹 프레임워크 페이지
 
-  - [첫 미니 프로젝트](/PROJECT/MiniProject/aboutTeam/20230515_firstTIL.md)
+  - [팀소개-01](/PROJECT/MiniProject/aboutTeam/20230515_firstTIL.md)
 
-  - [충돌](/PROJECT/MiniProject/aboutTeam/20230516_conflict.md)
+  - [팀소개-02](/PROJECT/MiniProject/aboutTeam/20230516_conflict.md)
 
-  - [플라스크 템플릿 엔진 jinja2](/PROJECT/MiniProject/aboutTeam/20230517_jinja2Template.md)
+  - [팀소개-03](/PROJECT/MiniProject/aboutTeam/20230517_jinja2Template.md)
 
-  - [URI & URL, GET & POST](/PROJECT/MiniProject/aboutTeam/20230518_uri_url_get_post.md)
+  - [팀소개-04](/PROJECT/MiniProject/aboutTeam/20230518_uri_url_get_post.md)
 
-- Java | 입력 출력 프로그램
+</br>
 
-  - [메모장](/PROJECT/MiniProject/javaProgram/20230605_notePad.md)
+- Java | 입출력 프로그램
 
-  - [호텔예약](/PROJECT/MiniProject/javaProgram/20230607_hotel_booking.md)
+  - [메모장](/PROJECT/MiniProject/javaProgram/20230605_size().md)
+
+  - [호텔예약-01](/PROJECT/MiniProject/javaProgram/20230607_infinity_loof.md)
+
+  - [호텔예약-02](/PROJECT/MiniProject/javaProgram/20230609_util_package.md)
+
+</br>
   
-- Java | 입력 출력 프로그램
+- Java | 입출력 프로그램 2
 
   - [키오츠크-01](/PROJECT/SoloProject/20230529_enum.md)
 
@@ -34,25 +43,54 @@
 
   - [키오츠크-04](/PROJECT/SoloProject/20230601_kiosk.md)
 
+</br>
+
 ### **SCM**
 
 - Git & Github | [깃 & 깃허브 시작하기](/SCM/20230524_git_github.md)
 
-- Github | [SSH key 등록하기](/SCM/20230516_sshKey.md)
+  - [SSH key 등록하기](/SCM/20230516_sshKey.md)
 
-- Github | [fork repository 생성](/SCM/20230516_sshKey.md)
+  - [fork repository 생성](/SCM/20230516_sshKey.md)
 
-- Github | [.gitignore 란?](/SCM/20230608_git_ignore.md)
+  - [.gitignore 란?](/SCM/20230608_git_ignore.md)
+
+</br>
 
 ### **LANGUAGE**
 
-- [마크다운 작성법](/LANGUAGE/20230518_markDown.md)
-<!-- - [자바 기초](/LANGUAGE/JAVA/basic/) -->
-<!-- - [자바 객체지향](/LANGUAGE/JAVA/OOP/) -->
-<!-- - [Coding Test](/LANGUAGE/JAVA/codingTest) -->
+- Java
+<!-- 
+  - 자바기초 | [Basic](/LANGUAGE/JAVA/basic/)
 
-### **WIL**
+  - 객체지향 | [OOP](/LANGUAGE/JAVA/OOP/)
 
-- 1주차 회고 | [음..](/WIL/20230521_WIL.md)
+  - 코딩테스트 | [Basic](/LANGUAGE/JAVA/codingTest)
 
-- 2주차 회고 | [자바 찍먹 후기](/WIL/20230528_WIL.md)
+  - 알고리즘 | [Algorithm](/LANGUAGE/JAVA) -->
+
+- Etc
+
+  - 마크다운 | [작성법](/LANGUAGE/20230518_markDown.md)
+
+</br>
+</br>
+</br>
+
+## **WIL**
+
+---
+
+>Weekly I Learned!
+
+</br>
+
+<!-- 웹 개발 종합반 수강 및 팀소개 Python 웹 페이지 만들기 -->
+- 1주차 회고 | [음..](/WIL/20230521_weekly_I_Learned.md)
+
+<!-- 자바 문법 종합반 수강 및 Java kiosk 입출력 프로그램(개인 프로젝트), Java 메모장 및 호텔예약 입출력 프로그램(팀 프로젝트) 만들기 -->
+- 2주차 회고 | [자바 찍먹 후기](/WIL/20230528_weekly_I_Learned.md)
+
+- 3주차 회고 | [익숙해지는 것](/WIL/20230603_weekly_I_Learned.md)
+
+- 4주차 회고 | [익숙해지는 것](/WIL/20230611_weekly_I_Learned.md)
