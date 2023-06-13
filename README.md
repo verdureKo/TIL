@@ -4,14 +4,14 @@
 
 </br>
 
-## ✔ INDEX
+✔ INDEX
 
 </br>
 </br>
 
-### **MINI PROJECT**
+## **Mini Project**
 
-- Python | 웹 프레임워크 페이지
+- Python | Flask 웹 프레임워크
 
   - [팀소개-01](/PROJECT/MiniProject/aboutTeam/20230515_firstTIL.md)
 
@@ -21,15 +21,21 @@
 
   - [팀소개-04](/PROJECT/MiniProject/aboutTeam/20230518_uri_url_get_post.md)
 
+  - [팀소개 Notion](https://www.notion.so/verdureko/9c2a878dd2f2429795c4371264b5c4f7)
+
 </br>
 
 - Java | 입출력 프로그램
 
   - [메모장](/PROJECT/MiniProject/javaProgram/20230605_size().md)
 
+  - [메모장 Notion](https://www.notion.so/verdureko/7ef1f56d196e4a5196ece6261f1ec774)
+
   - [호텔예약-01](/PROJECT/MiniProject/javaProgram/20230607_infinity_loof.md)
 
   - [호텔예약-02](/PROJECT/MiniProject/javaProgram/20230609_util_package.md)
+
+  - [호텔예약 Notion](https://www.notion.so/verdureko/939764c9e82240a1b38d75d7ea7a4815)
 
 </br>
   
@@ -43,11 +49,15 @@
 
   - [키오츠크-04](/PROJECT/SoloProject/20230601_kiosk.md)
 
+  - [키오츠크 Notion](https://www.notion.so/verdureko/8b75e8e45e78406ba59435439d923946)
+
 </br>
 
-### **SCM**
+## **SCM**
 
-- Git & Github | [깃 & 깃허브 시작하기](/SCM/20230524_git_github.md)
+- Git & Github | 버전관리
+
+  - [깃 & 깃허브 시작하기](/SCM/20230524_git_github.md)
 
   - [SSH key 등록하기](/SCM/20230516_sshKey.md)
 
@@ -57,7 +67,7 @@
 
 </br>
 
-### **LANGUAGE**
+## **LANGUAGE**
 
 - Java
 <!-- 
@@ -69,17 +79,25 @@
 
   - 알고리즘 | [Algorithm](/LANGUAGE/JAVA) -->
 
-- Etc
+</br>
 
-  - 마크다운 | [작성법](/LANGUAGE/20230518_markDown.md)
+## **SERVER**
+
+- WAS | Web Application Server
+
+  - WAS | [WAS ?](/SERVER/20230613_WAS.md)
+  - Apatch Tomcat | [WAS와 Apatch Tomcat](/SERVER/20230613_ApatchTomcaat.md)
 
 </br>
+
+- Etc
+
+  - Mark Down | [.md 기본 작성법](/LANGUAGE/20230518_markDown.md)
+
 </br>
 </br>
 
 ## **WIL**
-
----
 
 >Weekly I Learned!
 
