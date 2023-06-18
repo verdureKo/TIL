@@ -2,16 +2,14 @@
 
 >*Today I Learned !*
 
-</br>
-
 ✔ INDEX
 
-</br>
 </br>
 
 ## **Mini Project**
 
 - Python | Flask 웹 프레임워크
+
   - [팀소개-01](/PROJECT/MiniProject/aboutTeam/20230515_firstTIL.md)
   - [팀소개-02](/PROJECT/MiniProject/aboutTeam/20230516_conflict.md)
   - [팀소개-03](/PROJECT/MiniProject/aboutTeam/20230517_jinja2Template.md)
@@ -21,6 +19,7 @@
 </br>
 
 - Java | 입출력 프로그램
+
   - [메모장](/PROJECT/MiniProject/javaProgram/20230605_size().md)
   - [메모장 Notion](https://www.notion.so/verdureko/7ef1f56d196e4a5196ece6261f1ec774)
   - [호텔예약-01](/PROJECT/MiniProject/javaProgram/20230607_infinity_loof.md)
@@ -30,6 +29,7 @@
 </br>
   
 - Java | 입출력 프로그램 2
+
   - [키오츠크-01](/PROJECT/SoloProject/20230529_enum.md)
   - [키오츠크-02](/PROJECT/SoloProject/20230530_printf.md)
   - [키오츠크-03](/PROJECT/SoloProject/20230531_getter_setter.md)
@@ -38,15 +38,20 @@
 
 </br>
 
+---
+
 ## **SCM**
 
 - Git & Github | 버전관리
+
   - [깃 & 깃허브 시작하기](/SCM/20230524_git_github.md)
   - [SSH key 등록하기](/SCM/20230516_sshKey.md)
   - [fork repository 생성](/SCM/20230516_sshKey.md)
   - [.gitignore ?](/SCM/20230608_git_ignore.md)
 
 </br>
+
+---
 
 ## **LANGUAGE**
 
@@ -60,30 +65,46 @@
 </br>
 
 - Etc
+
   - Mark Down | [.md 기본 작성법](/LANGUAGE/20230518_markDown.md)
+
+---
 
 ## **SPRING**
 
 - SpringBoot | Web Application Framework
+
   - [Spring ?](/SPRING/20230612_spring_basic)
-  - [동적페이지](/SPRING/20230615_thymeleaf.md)
+  - [정적페이지와 동적페이지](/SPRING/20230615_thymeleaf.md)
   - [Json](/SPRING/20230613_jackson.md)
   - [Lombok](/SPRING/20230613_lombok.md)
   - [Servlet](/SPRING/20230615_servlet.md)
   - [URL 경로](/SPRING/20230613_pathVariable_requestParam.md)
   - [HTTP 데이터](/SPRING/20230613_modelAttribute_requestBody.md)
+  <!-- - [Ioc와 DI](/SPRING) -->
+  <!-- - [JPA ?](/SPRING) -->
+  - [JDBC ?](/SPRING/20230615_JDBC.md)
+  - [persistence ?](/SPRING/20230615_persistence.md)
+  - [Annotation](/SPRING/20230615_annotation.md)
   - [JunitTest](/SPRING/20230613_JunitTest.md)
+  <!-- - [Transaction ?](/SPRING) -->
+  - [debugging](/SPRING/20230615_debugging.md)
+  <!-- - [Query Method ?](/SPRING) -->
 
 </br>
+
+---
 
 ## **SERVER**
 
 - WAS | Web Application Server
-  - WAS | [WAS ?](/SERVER/20230613_WAS.md)
-  - Apatch Tomcat | [WAS와 Apatch Tomcat](/SERVER/20230613_ApatchTomcaat.md)
+
+  - [WAS ?](/SERVER/20230613_WAS.md)
+  - [WAS와 Apatch Tomcat](/SERVER/20230613_ApatchTomcaat.md)
 
 </br>
-</br>
+
+---
 
 ## **WIL**
 
@@ -98,3 +119,6 @@
 - 3주차 회고 | [익숙해지기](/WIL/20230603_weekly_I_Learned.md)
 - 4주차 회고 | [익숙해지기2](/WIL/20230611_weekly_I_Learned.md)
 <!-- 주특기 수강 주차 스프링 입문, 개인프로젝트 -->
+- 5주차 회고 | [스프링 찍먹](/WIL/20230618_weekly_I_Learned.md)
+
+---
