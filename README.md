@@ -81,15 +81,13 @@
   - [Servlet](/SPRING/20230615_servlet.md)
   - [URL 경로](/SPRING/20230613_pathVariable_requestParam.md)
   - [HTTP 데이터](/SPRING/20230613_modelAttribute_requestBody.md)
-  <!-- - [Ioc와 DI](/SPRING) -->
-  <!-- - [JPA ?](/SPRING) -->
+  - [Ioc와 DI](/SPRING/20230615_Ioc_DI.md)
   - [JDBC ?](/SPRING/20230615_JDBC.md)
   - [persistence ?](/SPRING/20230615_persistence.md)
   - [Annotation](/SPRING/20230615_annotation.md)
   - [JunitTest](/SPRING/20230613_JunitTest.md)
   <!-- - [Transaction ?](/SPRING) -->
   - [debugging](/SPRING/20230615_debugging.md)
-  <!-- - [Query Method ?](/SPRING) -->
 
 </br>
 
