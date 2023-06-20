@@ -48,6 +48,7 @@
   - [SSH key 등록하기](/SCM/20230516_sshKey.md)
   - [fork repository 생성](/SCM/20230516_sshKey.md)
   - [.gitignore ?](/SCM/20230608_git_ignore.md)
+  - [git GUI 프로그램](/SCM/20230620_fork.md)
 
 </br>
 
@@ -98,7 +99,8 @@
 - WAS | Web Application Server
 
   - [WAS ?](/SERVER/20230613_WAS.md)
-  - [WAS와 Apatch Tomcat](/SERVER/20230613_ApatchTomcaat.md)
+  <!-- - [Servlet ?](/SERVER/20230613_ApatchTomcat.md) -->
+  <!-- - [HTTP ?](/SERVER) -->
 
 </br>
 
