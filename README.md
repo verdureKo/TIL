@@ -75,7 +75,7 @@
 
 - SpringBoot | Web Application Framework
 
-  - [Spring ?](/SPRING/20230612_spring_basic)
+  - [Spring ?](/SPRING/20230612_spring_basic.md)
   - [정적페이지와 동적페이지](/SPRING/20230615_thymeleaf.md)
   - [Json](/SPRING/20230613_jackson.md)
   - [Lombok](/SPRING/20230613_lombok.md)
@@ -89,6 +89,7 @@
   - [JunitTest](/SPRING/20230613_JunitTest.md)
   - [Transaction ?](/SPRING/20230622_transaction.md)
   - [debugging](/SPRING/20230615_debugging.md)
+  - [JWT](/SPRING/20230626_jwt.md)
 
 </br>
 
@@ -120,5 +121,5 @@
 - 4주차 회고 | [익숙해지기2](/WIL/20230611_weekly_I_Learned.md)
 <!-- 주특기 수강 주차 스프링 입문, 개인프로젝트 -->
 - 5주차 회고 | [스프링 찍먹](/WIL/20230618_weekly_I_Learned.md)
-
+<!-- - 6주차 회고 | [익숙해지기](/WIL) -->
 ---
