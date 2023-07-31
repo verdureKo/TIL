@@ -133,10 +133,10 @@
 - 3주차 회고 | [익숙해지기](/WIL/20230603_weekly_I_Learned.md)
 - 4주차 회고 | [익숙해지기2](/WIL/20230611_weekly_I_Learned.md)
 - 5주차 회고 | [스프링 찍먹](/WIL/20230618_weekly_I_Learned.md)
-- 6주차 회고 | [익숙해지기](/WIL/20230625_weekly_I_Learned.md)
-- 7주차 회고 | [익숙해지기](/WIL/20230702_weekly_I_Learned.md)
-- 8주차 회고 | [익숙해지기](/WIL/20230709_weekly_I_Learned.md)
-- 9주차 회고 | [익숙해지기](/WIL/20230715_weekly_I_Learned.md)
+<!-- - 6주차 회고 | [익숙해지기](/WIL/20230625_weekly_I_Learned.md) -->
+<!-- - 7주차 회고 | [익숙해지기](/WIL/20230702_weekly_I_Learned.md) -->
+<!-- - 8주차 회고 | [익숙해지기](/WIL/20230709_weekly_I_Learned.md) -->
+<!-- - 9주차 회고 | [익숙해지기](/WIL/20230715_weekly_I_Learned.md) -->
 - 10주차 회고 | [익숙해지기](/WIL/20230729_weekly_I_Learned.md)
 
 ---
