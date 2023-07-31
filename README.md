@@ -128,13 +128,15 @@
 
 </br>
 
-<!-- 웹 개발 종합반 수강 및 팀소개 Python 웹 페이지 만들기 -->
 - 1주차 회고 | [음..](/WIL/20230521_weekly_I_Learned.md)
-<!-- 자바 문법 종합반 수강 및 Java kiosk 입출력 프로그램(개인 프로젝트), Java 메모장 및 호텔예약 입출력 프로그램(팀 프로젝트) 만들기 -->
 - 2주차 회고 | [자바 찍먹](/WIL/20230528_weekly_I_Learned.md)
 - 3주차 회고 | [익숙해지기](/WIL/20230603_weekly_I_Learned.md)
 - 4주차 회고 | [익숙해지기2](/WIL/20230611_weekly_I_Learned.md)
-<!-- 주특기 수강 주차 스프링 입문, 개인프로젝트 -->
 - 5주차 회고 | [스프링 찍먹](/WIL/20230618_weekly_I_Learned.md)
-<!-- - 6주차 회고 | [익숙해지기](/WIL) -->
+- 6주차 회고 | [익숙해지기](/WIL/20230625_weekly_I_Learned.md)
+- 7주차 회고 | [익숙해지기](/WIL/20230702_weekly_I_Learned.md)
+- 8주차 회고 | [익숙해지기](/WIL/20230709_weekly_I_Learned.md)
+- 9주차 회고 | [익숙해지기](/WIL/20230715_weekly_I_Learned.md)
+- 10주차 회고 | [익숙해지기](/WIL/20230729_weekly_I_Learned.md)
+
 ---
